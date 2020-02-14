@@ -1,7 +1,12 @@
 homepage: "https://tribeos.io"
 documentation: "https://github.com/TribeOS/tribeos-pixel-template"
 versions:
+  # Latest version
+  - sha: d0a4a9dfcbb86f5cccfbfaafb1335a5bd7f802ae
+    changeNotes: Description updated.
+  # Older versions
   - sha: fa270da3b133d0c57fe481401d76bba5ab370ccc
     changeNotes: Initial release.
+  
 
  
